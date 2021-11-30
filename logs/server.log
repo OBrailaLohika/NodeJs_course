@@ -1,0 +1,112 @@
+info: Nov-24-2021 12:18:31: 	Server started and running on http://localhost:3000
+info: Nov-24-2021 12:20:26: 	Server started and running on http://localhost:3000
+info: Nov-24-2021 13:57:18: 	Server started and running on http://localhost:3000
+info: Nov-24-2021 14:03:01: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:03:01: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:03:41: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:03:41: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:08:28: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:08:28: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:08:53: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:08:53: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:11:17: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:11:17: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:11:32: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:11:32: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:14:24: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:14:24: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:21:32: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:21:32: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:22:38: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:22:38: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:23:04: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:23:04: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:24:02: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:24:02: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:25:47: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:25:47: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:26:34: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:26:34: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:26:43: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:26:43: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:27:23: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:27:23: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:31:01: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:31:01: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:31:30: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:31:30: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:36:42: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:36:42: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:36:54: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:36:54: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:44:22: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:44:22: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:48:06: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:48:06: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:48:52: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:48:52: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:49:06: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:49:06: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:50:49: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:50:49: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:51:15: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:51:15: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:52:14: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:52:14: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:58:08: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:58:08: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:58:48: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:58:48: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 14:58:59: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 14:58:59: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 15:56:41: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 15:56:41: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 15:56:50: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 15:56:50: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:07:57: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:07:57: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:09:16: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:09:16: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:13:19: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:13:19: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:13:42: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:13:42: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:14:05: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:14:05: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:14:45: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:14:45: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:15:03: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:15:03: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:16:00: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:16:00: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:17:18: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:17:18: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:20:23: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:20:23: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:21:55: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:21:55: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:25:52: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:25:52: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:27:54: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:27:54: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:28:18: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:28:18: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-24-2021 16:29:25: 	Server started and running on http://localhost:3000
+error: Nov-24-2021 16:29:25: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+info: Nov-25-2021 17:03:35: 	Server started and running on http://localhost:3000
+error: Nov-25-2021 17:03:35: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+error: Nov-25-2021 17:03:35: 	MongoDB connection error:
+info: Nov-25-2021 17:04:52: 	Server started and running on http://localhost:3000
+error: Nov-25-2021 17:04:52: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+error: Nov-25-2021 17:04:52: 	MongoDB connection error:
+info: Nov-25-2021 17:05:44: 	Server started and running on http://localhost:3000
+error: Nov-25-2021 17:05:44: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+error: Nov-25-2021 17:05:44: 	MongoDB connection error:
+info: Nov-26-2021 10:21:28: 	Server started and running on http://localhost:3000
+error: Nov-26-2021 10:21:28: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+error: Nov-26-2021 10:21:28: 	MongoDB connection error:
+info: Nov-26-2021 10:34:52: 	Server started and running on http://localhost:3000
+error: Nov-26-2021 10:34:52: 	Invalid connection string "mongodb:127.0.0.1:27017/movies"
+error: Nov-26-2021 10:34:52: 	MongoDB connection error:
+info: Nov-26-2021 10:35:58: 	Server started and running on http://localhost:3000
+info: Nov-26-2021 10:35:58: 	Database connection successful

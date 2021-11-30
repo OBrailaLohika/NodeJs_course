@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "typeRoots": ["./node_modules/winston-mongodb/lib/winston-mongodb.d.ts"],
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+  },
+  "exclude": ["./node_modules"],
+  "include": [
+        "./src"
+    ]
+}
